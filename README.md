@@ -2,11 +2,11 @@
 
 ### 🔰 Live Preview Projects:
 
-- Complete "Beach Resort | Hotel Room Book" Project - [Click To Live Preview][beach-resort]
+- Complete "Beach Resort | Hotel Room Book" Project 
 
 <br />
 
-                    </> HAPPY DEVELOPING 🤣 </>
+                    </> HAPPY DEVELOPING  </>
 
 <!-- project link -->
 
